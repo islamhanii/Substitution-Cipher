@@ -1,3 +1,6 @@
+//Author: Islam Hani Awad
+//Job: Student at FCAI faculty, Cairo University
+
 package substitution.cipher;
 
 import java.io.FileNotFoundException;
