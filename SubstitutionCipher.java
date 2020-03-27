@@ -1,5 +1,5 @@
-//Author: Islam Hani Awad
-//Job: Student at FCAI faculty, Cairo University
+///Author: Islam Hani Awad
+///Job: Student at FCAI faculty, Cairo University
 
 package substitution.cipher;
 
